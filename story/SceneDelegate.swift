@@ -6,6 +6,11 @@
 //
 
 import UIKit
+import Firebase
+import FirebaseAuth
+import FirebaseCore
+import FirebaseFirestore
+import FirebaseFirestoreSwift
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
